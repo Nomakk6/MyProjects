@@ -1,0 +1,11 @@
+With or Without me answer:
+1.7218.round
+1.7218.round(2)
+
+Floating away answer:
+34/5.to_f
+34/5.to_f
+
+Two Truths and a Lie answer:
+The second and third ones are the same because they show object to string ( no quotes on :city or city: and :state or state:)
+The first one is string to string ( quotes on all words in the expression).
